@@ -1,79 +1,61 @@
-# Hi, I'm Richa Mishra! 👋
+# Hi there, I'm Richa Mishra! 👋
 
-## 💻 About Me
-I am a highly motivated **Java Developer** with 2+ years of experience in designing and developing **APIs** for applications. I have experience working in an **Agile development** environment and collaborating effectively with **cross-functional teams**. Passionate about learning and staying up to date with the latest technologies. 
+📍 Pune, India  
+📧 mishraricha981@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/richa-mishra-96a35b1b3/)
 
-## 📫 Contact Me
-📧 Email: [mishraricha981@gmail.com](mailto:mishraricha981@gmail.com) 
-📞 Contact: +91 8619380284 
-📍 Pune, India - 411006 
-🔗 LinkedIn: [Your LinkedIn Profile](#)
+## 🚀 About Me
+I am a highly motivated **React Developer** with 2+ years of experience. I have successfully designed and developed APIs for applications and worked in Agile development environments. Passionate about continuous learning, I stay updated with the latest technologies and look forward to contributing to innovative projects.
 
----
-
-## 🚀 Skills
-- **Backend:** Java, Spring Boot, REST APIs, MySQL 
-- **Frontend:** HTML, CSS, JavaScript, React 
-- **Tools & Technologies:** Git, Postman, Tomcat Server 
-
----
+## 🛠 Skills & Technologies
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Spring Boot, MySQL
+- **Cloud & DevOps:** AWS EKS, Docker, Kubernetes, Argo CD, AWS CloudWatch
 
 ## 🎓 Education
-- **Bachelor of Technology - Electronics and Communication Engineering** 
- *JECRC College, Jaipur, Rajasthan (2021) - 75%* 
-- **Senior Secondary Education** 
- *Aklank Public School, Kota, Rajasthan (2017) - 70%* 
-- **Secondary Education** 
- *St. Paul’s Sr. Sec. School, Kota, Rajasthan (2015) - 75%* 
+- **B.Tech in Electronics and Communication Engineering** - JECRC College, Jaipur (2021) (75%)
+- **Senior Secondary Education** - Aklank Public School, Kota (2017) (70%)
+- **Secondary Education** - St. Paul’s Sr. Sec. School, Kota (2015) (75%)
 
----
-
-## 🎯 Certifications
-- Infosys Certified Spring Boot Developer 
-- Infosys Certified Spring REST Professional 
-- Infosys Certified MySQL Associate 
-- Infosys Certified Java SE8 Developer 
-
----
+## 🏆 Certifications
+- Infosys Certified Spring Rest Professional
+- Infosys Certified Spring Boot Developer
+- Infosys Certified MySQL Associate
+- Infosys Certified Java SE8 Developer
+- Infosys Certified React Professional
+- Microsoft Azure Fundamental (AZ-900)
+- Microsoft Deploying Solution (AZ-204)
 
 ## 💼 Work Experience
-### Infosys Limited, Pune *(01/2022 - Present)*
-- Designed, developed, and maintained **robust backend services** using **Spring Boot**.
-- Implemented **RESTful APIs** for data access and manipulation.
-- Integrated with **databases (MySQL)** using **Spring Data JDBC**.
-- Developed **business logic and data access layers** using **Spring components**.
-- Developed and deployed **web applications** using **Spring Boot**, packaged as **WAR files** for deployment on **Tomcat servers**.
+### **Infosys Limited** *(Jan 2022 - Present)*
+#### Projects:
+🔹 **Chatbot Development Using Ollama**  
+- Built a chatbot using **Large Language Models (LLMs)**.  
+- Explored architecture and capabilities of LLMs.  
+- **Tech Stack:** Ollama, LLM Models.
 
----
+🔹 **Object and Language Detection with Generative AI**  
+- Used **OpenAI & Hugging Face models** for object detection and language identification.  
+- **Tech Stack:** Generative AI, OpenAI, Hugging Face.
 
-## 📂 Projects
-### Cab Booking Application 🚖
-- Designed **RESTful APIs** ensuring consistent and predictable interactions.
-- Users can interact with endpoints using standard HTTP methods (GET, POST, etc.).
+🔹 **Continuous Deployment with Kubernetes & Argo CD**  
+- Configured **CI/CD pipelines** using Kubernetes and Argo CD.
+- Integrated **Grafana & Prometheus** for monitoring.  
+- **Tech Stack:** Kubernetes, Argo CD, AWS EKS, GitOps, Grafana, Prometheus.
 
-### Movie Booking Application 🎬
-- Seamlessly integrated API with **scheduling and seat management systems**.
-- Ensured **booked tickets** reflect in the theatre schedule, preventing **double-booking**.
+🔹 **Chaos Engineering POC with Chaos Mesh**  
+- Conducted **Chaos Engineering simulations** using Chaos Mesh.
+- Automated termination of running instances via AWS FIS.
+- **Tech Stack:** Chaos Mesh, AWS FIS.
 
-### Global Education Application 🎓
-- Integrated API with **registration and student management systems** to find students by ID.
+🔹 **Amazon Clone Development**  
+- Built a responsive **Amazon Clone** using React.  
+- Focused on clean UI/UX design.  
+- **Tech Stack:** HTML5, CSS3, JavaScript, React.
 
-### Additional Projects
-- **Digital Banking Application** *(Java, Spring, React)* 💰
-- **Amazon Clone** *(HTML, CSS, JavaScript)* 🛒
+## 📊 GitHub Stats
+![Richa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
 
----
-
-## 🌍 Languages
-- English 
-- Hindi 
-
-## 🎵 Hobbies & Interests
-- Dancing 💃
-- Cooking 🍳
-- Exploring new places 🌍
-- Listening to music 🎶
-
----
-
-🌟 **Let's Connect & Build Something Amazing!** 🚀
+## 📫 Let's Connect!
+💼 [LinkedIn](https://www.linkedin.com/in/richa-mishra-96a35b1b3/)  
+🖥️ [GitHub](https://github.com/richamishra13)  
