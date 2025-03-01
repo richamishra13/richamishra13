@@ -1,6 +1,6 @@
 # Hi there, I'm Richa Mishra! 👋
 
-![Cover Image](https://github.com/richamishra13/richamishra13/raw/main/download.png)
+(https://github.com/richamishra13/richamishra13/raw/main/download.png)
 
 
 
