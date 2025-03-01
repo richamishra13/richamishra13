@@ -54,7 +54,7 @@ I am a highly motivated **React Developer** with 2+ years of experience. I have 
 - **Tech Stack:** HTML5, CSS3, JavaScript, React.
 
 ## 📊 GitHub Stats
-![Richa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Richa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=richamishra13&show_icons=true&theme=tokyonight)
 
 ## 📫 Let's Connect!
 💼 [LinkedIn](https://www.linkedin.com/in/richa-mishra-96a35b1b3/)  
