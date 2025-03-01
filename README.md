@@ -1,6 +1,7 @@
 # Hi there, I'm Richa Mishra! 👋
-![Cover Image](https://github.com/richamishra13/richamishra13/raw/main/![image](https://github.com/user-attachments/assets/9eea4e6b-5592-40fa-8931-e64ef1c505fa)
-.png)
+
+![Cover Image](https://github.com/richamishra13/richamishra13/raw/main/download.png)
+
 
 
 📍 Pune, India  
