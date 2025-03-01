@@ -1,8 +1,5 @@
 # Hi there, I'm Richa Mishra! 👋
 
-(https://github.com/richamishra13/richamishra13/raw/main/download.png)
-
-
 
 📍 Pune, India  
 📧 mishraricha981@gmail.com  
